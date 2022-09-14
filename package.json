@@ -4,6 +4,7 @@
   "description": "Lab 3 - challenges",
   "main": "jest",
   "scripts": {
+    "binary":"./src/list-sorting/index.js",
     "test": "jest",
     "test:watch": "jest --watch",
     "prepare": "husky install"
